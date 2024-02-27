@@ -15,7 +15,7 @@ public class main {
 		else if(data =="info")
 			a.info();
 		else if (data == "exit")
-			System.exit(0);	
+			return null;	
 	}
 
 }
